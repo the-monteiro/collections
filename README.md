@@ -1,3 +1,6 @@
+> **Learning experiment — not recommended for new production projects.**
+> This library was created to explore Go generics, inspired by JavaScript array methods and C# LINQ. Its API reflects that learning process and does not aim to follow idiomatic Go design. The project is no longer actively maintained; no further development or maintenance is planned. The code and documentation are preserved for historical and educational reference.
+
 [![Go Documentation](https://godocs.io/github.com/tmontdev/collections?status.svg)](https://godocs.io/github.com/tmontdev/collections)
 [![Go Report Card](https://goreportcard.com/badge/github.com/tmontdev/collections)](https://goreportcard.com/report/github.com/tmontdev/collections)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=tmontdev_iterable&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=tmontdev_iterable)
@@ -21,9 +24,8 @@ go get github.com/tmontdev/collections
 
 # Project Status
 
-**experimental/alpha**.
-It was created for personal use, and is still growing. We are not in v1 yet.
-However there is intention to keep improving, so feel free to suggest, discuss and issue.
+**Experimental/alpha — development concluded.**
+This personal learning experiment never reached v1. The installation instructions, API documentation, and examples below are retained as a record of the project.
 
 # Quick Start
 
@@ -185,4 +187,4 @@ List interface have many other methods to easily filter, sort, and transform you
 
 # Issues and Discussions
 
-Please, feel free to open an issues and discuss about this project on [github](https://github.com/tmontdev/collections)
+Existing issues and discussions on [GitHub](https://github.com/the-monteiro/collections) are retained for historical context. No further maintenance is planned.
